@@ -459,7 +459,11 @@
 	}
 	
 	#contact-formular {
-		margin-top: 60px;
+		padding-top: 80px;
+	}
+	
+	.email-contact-wrapper {
+		padding-top: 60px;
 	}
 
 /*--------------------------------------------------
